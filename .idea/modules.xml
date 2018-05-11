@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/horserun-api/horserun-api.iml" filepath="$PROJECT_DIR$/horserun-api/horserun-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/horserun-core/horserun-core.iml" filepath="$PROJECT_DIR$/horserun-core/horserun-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/horserun-user/horserun-user.iml" filepath="$PROJECT_DIR$/horserun-user/horserun-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workspace.iml" filepath="$PROJECT_DIR$/workspace.iml" />
+    </modules>
+  </component>
+</project>
